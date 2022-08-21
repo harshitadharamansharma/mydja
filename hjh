@@ -1,0 +1,186 @@
+
+Root Node - University 	
+		 Data Item - Name - Name of the university
+		 Subtree - Address - Address of the University 		
+			 Data Item - Street Name
+			 Data Item - Area Name
+			 Data Item - City
+			 Data Item - State
+			 Data Item - Country
+		 		
+		 Subtree - Vice Chancellor 		
+			 Data Item - Name
+			 Data Item - Contact Number
+			 Data Item - Email ID
+			 Subtree - Address 			
+				 Data Item - Street Name
+				 Data Item - Area Name
+				 Data Item - City
+				 Data Item - State
+				 Data Item - Country
+			 			
+			 Subtree - Dean 1 			
+				 Data Item - Name of Faculty (For instance, Dean of Daculty of Applied Sciences - here Name of Faculty is Applied Sciences)
+				 Data Item - Name
+				 Data Item - Contact Number
+				 Data Item - Email ID
+				 Subtree - Address 				
+					 Data Item - Street Name
+					 Data Item - Area Name
+					 Data Item - City
+					 Data Item - State
+					 Data Item - Country
+				 				
+				 Data Item - Employee ID
+				 Subtree - Departments 				
+					 Subtree - Department Details #1 					
+						 Data Item - Department Name
+						 Subtree - Head of the Department 						
+							 Data Item - Name
+							 Data Item - Contact Number
+							 Data Item - Email ID
+							 Subtree - Address 							
+								 Data Item - Street Name
+								 Data Item - Area Name
+								 Data Item - City
+								 Data Item - State
+								 Data Item - Country
+							 							
+						 						
+						 Subtree - Members 						
+							 Data Item - Name of Professor # 1
+							 Data Item - Name of Professor # 2
+							 Data Item - Name of Professor # 3
+						 						
+					 					
+					 Subtree - Department Details #2 					
+						 Data Item - Department Name
+						 Subtree - Head of the Department 						
+							 Data Item - Name
+							 Data Item - Contact Number
+							 Data Item - Email ID
+							 Subtree - Address 							
+								 Data Item - Street Name
+								 Data Item - Area Name
+								 Data Item - City
+								 Data Item - State
+								 Data Item - Country
+							 							
+						 						
+						 Subtree - Members 						
+							 Data Item - Name of Professor # 1
+							 Data Item - Name of Professor # 2
+							 Data Item - Name of Professor # 3
+						 						
+					 					
+				 				
+			 			
+			 Subtree - Dean 2 			
+				 Data Item - Name of Faculty
+				 Data Item - Name
+				 Data Item - Contact Number
+				 Data Item - Email ID
+				 Subtree - Address 				
+					 Data Item - Street Name
+					 Data Item - Area Name
+					 Data Item - City
+					 Data Item - State
+					 Data Item - Country
+				 				
+				 Data Item - Employee ID
+				 Subtree - Departments 				
+					 Subtree - Department Details #1 					
+						 Data Item - Department Name
+						 Subtree - Head of the Department 						
+							 Data Item - Name
+							 Data Item - Contact Number
+							 Data Item - Email ID
+							 Subtree - Address 							
+								 Data Item - Street Name
+								 Data Item - Area Name
+								 Data Item - City
+								 Data Item - State
+								 Data Item - Country
+							 							
+						 						
+						 Subtree - Members 						
+							 Data Item - Name of Professor # 1
+							 Data Item - Name of Professor # 2
+							 Data Item - Name of Professor # 3
+						 						
+					 					
+					 Subtree - Department Details #2 					
+						 Data Item - Department Name
+						 Subtree - Head of the Department 						
+							 Data Item - Name
+							 Data Item - Contact Number
+							 Data Item - Email ID
+							 Subtree - Address 							
+								 Data Item - Street Name
+								 Data Item - Area Name
+								 Data Item - City
+								 Data Item - State
+								 Data Item - Country
+							 							
+						 						
+						 Subtree - Members 						
+							 Data Item - Name of Professor # 1
+							 Data Item - Name of Professor # 2
+							 Data Item - Name of Professor # 3
+						 						
+					 					
+				 				
+			 			
+			 Subtree - Dean 3 			
+				 Data Item - Name of Faculty
+				 Data Item - Name
+				 Data Item - Contact Number
+				 Data Item - Email ID
+				 Subtree - Address 				
+					 Data Item - Street Name
+					 Data Item - Area Name
+					 Data Item - City
+					 Data Item - State
+					 Data Item - Country
+				 				
+				 Data Item - Employee ID
+				 Subtree - Departments 				
+					 Subtree - Department Details #1 					
+						 Data Item - Department Name
+						 Subtree - Head of the Department 						
+							 Data Item - Name
+							 Data Item - Contact Number
+							 Data Item - Email ID
+							 Subtree - Address 							
+								 Data Item - Street Name
+								 Data Item - Area Name
+								 Data Item - City
+								 Data Item - State
+								 Data Item - Country
+							 							
+						 						
+						 Subtree - Members 						
+							 Data Item - Name of Professor # 1
+							 Data Item - Name of Professor # 2
+							 Data Item - Name of Professor # 3
+						 						
+					 					
+					 Subtree - Department Details #2 					
+						 Data Item - Department Name
+						 Subtree - Head of the Department 						
+							 Data Item - Name
+							 Data Item - Contact Number
+							 Data Item - Email ID
+							 Subtree - Address 							
+								 Data Item - Street Name
+								 Data Item - Area Name
+								 Data Item - City
+								 Data Item - State
+								 Data Item - Country
+							 							
+						 						
+						 Subtree - Members 						
+							 Data Item - Name of Professor # 1
+							 Data Item - Name of Professor # 2
+							 Data Item - Name of Professor # 3
+

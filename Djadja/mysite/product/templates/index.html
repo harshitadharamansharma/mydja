@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+    <h1>
+        Products
+    </h1>
+    <div class="row">
+         <!--conditionallt render the template; dynamic code--> 
+         {% for p in Products %}  <!-- dynMIC REnder content in curly brACES-->
+        
+        <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="{{product.image_url}}" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">{{product.name}}</h5>
+                  <p class="card-text">${{product.price}}</p>   <!--Some quick example text to build on the card title and make up the bulk of the card's content.-->
+                  <a href="#" class="btn btn-primary">Add to cart</a>
+                </div>
+              </div>
+        </div>
+        {% endfor %}
+    </div>
+    <!-- <ul>
+   
+            <li> {{p.name}} (${{p.price}})</li>
+ 
+        
+
+    </ul> -->
+
+
+    
+    <!--
+    
+    
+    
+    <li> Item 1</li>
+    
+    <li> Item 2</li>
+    
+    <li> Item 3</li>
+    
+    <li> Item 4</li>
+
+
+</ul>
+
+-->
+
+{% endblock %}
